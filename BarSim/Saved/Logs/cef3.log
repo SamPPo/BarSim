@@ -1,11 +1,7 @@
-[46880:11516:0211/152903.849:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[46880:21260:0211/152904.137:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[46880:11516:0211/152904.237:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[46880:11516:0211/152907.025:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[33724:16956:0211/152909.115:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9888A38826D618DCC55DE82668133565 will be ignored
-[46880:11516:0211/152914.443:ERROR:device_event_log_impl.cc(196)] [15:29:14.115] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elementtiä ei löydy. (0x490)
-[46880:11516:0211/180656.352:ERROR:device_event_log_impl.cc(196)] [18:06:56.055] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elementtiä ei löydy. (0x490)
-[46880:11516:0211/180657.353:ERROR:device_event_log_impl.cc(196)] [18:06:57.075] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elementtiä ei löydy. (0x490)
-[46880:11516:0211/215034.780:ERROR:device_event_log_impl.cc(196)] [21:50:34.497] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elementtiä ei löydy. (0x490)
-[46880:11516:0211/215035.447:ERROR:device_event_log_impl.cc(196)] [21:50:35.441] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elementtiä ei löydy. (0x490)
-[46880:11516:0211/224504.575:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[42620:19484:0212/102114.903:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[42620:41368:0212/102115.155:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[42620:19484:0212/102115.251:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[42620:19484:0212/102118.283:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[23396:38736:0212/102120.387:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AA04F7B806C0D7E6784CE7DD9BA090D0 will be ignored
+[42620:19484:0212/102126.384:ERROR:device_event_log_impl.cc(196)] [10:21:26.052] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elementtiä ei löydy. (0x490)
+[42620:19484:0212/142733.535:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
